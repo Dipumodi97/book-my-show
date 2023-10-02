@@ -6,9 +6,7 @@ import org.springframework.stereotype.Component;
 
 import java.time.Duration;
 
-@Getter
-@Setter
-@ToString
+@Data
 @NoArgsConstructor
 @AllArgsConstructor
 @Component
